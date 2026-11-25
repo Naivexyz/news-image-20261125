@@ -1,0 +1,62 @@
+{
+ "briefs": [
+  {
+   "tag": "GLOBAL REPORT",
+   "text": "Landmine casualties hit a five-year high of about 7,000, Myanmar and Syria worst affected."
+  },
+  {
+   "tag": "UNITED STATES",
+   "text": "President Trump awards Rudy Giuliani the Medal of Freedom, America's highest civilian honour."
+  },
+  {
+   "tag": "TRADE",
+   "text": "Washington is set to unveil new tariffs after a probe into excess factory capacity, reports say."
+  },
+  {
+   "tag": "SPORT · CRICKET",
+   "text": "India's Vaibhav Suryavanshi, 15, smashes a world-record 204 off 53 balls at the Rising Stars Asia Cup."
+  }
+ ],
+ "cards": [
+  {
+   "body": "Tehran's Revolutionary Guard said two tankers exploded and caught fire after striking naval mines in the strait early on Wednesday. The claim is unverified; attacks on shipping near Hormuz are at their highest since February.",
+   "headline": "Iran says two tankers hit mines in Hormuz",
+   "tag": "STRAIT OF HORMUZ"
+  },
+  {
+   "body": "China's Shenzhou-24 mission carried a Pakistani astronaut to the Tiangong space station — the first foreign national to fly aboard a Chinese crewed spacecraft.",
+   "headline": "Shenzhou-24 lifts off with first Pakistani astronaut",
+   "tag": "SPACE · CHINA"
+  },
+  {
+   "body": "Beijing's anti-corruption watchdog is investigating Politburo member and Shanghai party secretary Chen Jining — the most senior official felled in the biggest party shake-up in decades.",
+   "headline": "Shanghai party chief Chen Jining under graft probe",
+   "tag": "CHINA · POLITICS"
+  },
+  {
+   "body": "A US federal jury convicted China's Huawei in a sprawling criminal trial over trade-secret theft and its dealings with Iran, capping years of legal battles.",
+   "headline": "US jury convicts Huawei of stealing trade secrets",
+   "tag": "TECHNOLOGY · US TRIAL"
+  },
+  {
+   "body": "Armed men took 25 people hostage inside a Colombian supermarket after a failed raid on an armoured cash truck, as police surrounded the building.",
+   "headline": "Gunmen seize 25 hostages in supermarket siege",
+   "tag": "COLOMBIA"
+  },
+  {
+   "body": "A suspected gas explosion tore through a building in Vietnam's capital, Hanoi, killing six people and injuring ten, Vietnamese authorities said on Wednesday.",
+   "headline": "Suspected gas explosion in Hanoi kills six",
+   "tag": "VIETNAM"
+  }
+ ],
+ "date_line": "WEDNESDAY · 25 NOVEMBER 2026",
+ "footer": "Compiled from agency reports — AFP · AP · dpa · Xinhua · The National · SCMP · Japan Times",
+ "lead": {
+  "body": "A drone struck the 80-storey PIF Tower in Riyadh's financial district, its second hit in under a week. Saudi Civil Defence said 11 people were hurt. The Saudi-led coalition answered with strikes on Yemen's Hodeidah port, and the Houthis threatened Red Sea ports.",
+  "headline": "Houthi drone hits Riyadh's tallest tower again — 11 injured",
+  "place": "RIYADH",
+  "tag": "MIDDLE EAST"
+ },
+ "masthead": "THE WORLD TODAY",
+ "tagline": "One day of world news, in one picture"
+}

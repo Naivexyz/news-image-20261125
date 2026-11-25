@@ -10,7 +10,7 @@
   },
   {
    "tag": "TRADE",
-   "text": "Washington is set to unveil new tariffs after a probe into excess factory capacity, reports say."
+   "text": "Washington is reportedly preparing new tariffs on China and 15 other trading partners."
   },
   {
    "tag": "SPORT · CRICKET",
@@ -19,7 +19,17 @@
  ],
  "cards": [
   {
-   "body": "Tehran's Revolutionary Guard said two tankers exploded and caught fire after striking naval mines in the strait early on Wednesday. The claim is unverified; attacks on shipping near Hormuz are at their highest since February.",
+   "body": "A drone struck Riyadh's 80-storey PIF Tower, its second hit in under a week. Saudi Civil Defence said 11 people were hurt; the Saudi-led coalition answered with strikes on Yemen's Hodeidah port.",
+   "headline": "Houthi drone hits Riyadh's tallest tower again — 11 injured",
+   "tag": "MIDDLE EAST"
+  },
+  {
+   "body": "Third-quarter US growth was revised sharply up to a 4.3% annual rate, from a first estimate of 3.4% — the fastest pace in three years, on stronger consumer spending and investment.",
+   "headline": "US economy grew 4.3% in third quarter, beating forecasts",
+   "tag": "US GROWTH"
+  },
+  {
+   "body": "Tehran's Revolutionary Guard said two tankers exploded after striking naval mines in the strait. The claim is unverified; attacks on shipping near Hormuz are at their highest since February.",
    "headline": "Iran says two tankers hit mines in Hormuz",
    "tag": "STRAIT OF HORMUZ"
   },
@@ -34,28 +44,18 @@
    "tag": "CHINA · POLITICS"
   },
   {
-   "body": "A US federal jury convicted China's Huawei in a sprawling criminal trial over trade-secret theft and its dealings with Iran, capping years of legal battles.",
+   "body": "A US federal jury convicted China's Huawei in a criminal trial over trade-secret theft and its dealings with Iran, capping years of legal battles.",
    "headline": "US jury convicts Huawei of stealing trade secrets",
    "tag": "TECHNOLOGY · US TRIAL"
-  },
-  {
-   "body": "Armed men took 25 people hostage inside a Colombian supermarket after a failed raid on an armoured cash truck, as police surrounded the building.",
-   "headline": "Gunmen seize 25 hostages in supermarket siege",
-   "tag": "COLOMBIA"
-  },
-  {
-   "body": "A suspected gas explosion tore through a building in Vietnam's capital, Hanoi, killing six people and injuring ten, Vietnamese authorities said on Wednesday.",
-   "headline": "Suspected gas explosion in Hanoi kills six",
-   "tag": "VIETNAM"
   }
  ],
  "date_line": "WEDNESDAY · 25 NOVEMBER 2026",
- "footer": "Compiled from agency reports — AFP · AP · dpa · Xinhua · The National · SCMP · Japan Times",
+ "footer": "Compiled from agency reports — AFP · AP · Reuters · US BEA · The National · SCMP · Japan Times",
  "lead": {
-  "body": "A drone struck the 80-storey PIF Tower in Riyadh's financial district, its second hit in under a week. Saudi Civil Defence said 11 people were hurt. The Saudi-led coalition answered with strikes on Yemen's Hodeidah port, and the Houthis threatened Red Sea ports.",
-  "headline": "Houthi drone hits Riyadh's tallest tower again — 11 injured",
-  "place": "RIYADH",
-  "tag": "MIDDLE EAST"
+  "body": "The Federal Reserve's preferred inflation gauge, core PCE, rose 3.3% in the year to October — above forecasts and the highest since November 2023. Headline inflation hit 3.8%. Nasdaq futures fell about 3% as a December rate hike looked all but certain.",
+  "headline": "Core US inflation hits 3.3%, the highest in three years",
+  "place": "WASHINGTON",
+  "tag": "US ECONOMY"
  },
  "masthead": "THE WORLD TODAY",
  "tagline": "One day of world news, in one picture"
